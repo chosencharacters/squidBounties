@@ -31,4 +31,4 @@ All of the bounties listed have the following common rules:
 
 #7: If you would like to contribute to the bounty's payout, you are free to do so. For example, if you're a developer that cannot work on a project but would like to pay extra to the person that completes it, you can simply add that as a comment to the bounty. All the above rules still apply, so you may end up getting multiple 1099-MISCs if you receive bounties from multiple companies.
 
-If you have any further questions, my e-mail address is octosoftus@gmail.com, and you can ping me on twitter as [@squuuidly](https://www.twitter.com/squuuidly) or better yet, find me in the Haxe or Renaine discords as @whodunit#4111.
+If you have any further questions, my e-mail address is octosoftus@gmail.com, and you can ping me on twitter as [@squuuidly](https://www.twitter.com/squuuidly) or better yet, find me in the (Haxe)[https://discordapp.com/invite/rqEBAgF] or (Renaine)[https://discord.gg/renaine] discords as @whodunit#4111.
