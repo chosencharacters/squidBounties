@@ -1,9 +1,9 @@
 # squidBounties
-Haxe(Flixel) and OpenFL bounties to help glorious progress of flixelkind
+Haxe(Flixel) and OpenFL bounties to help glorious progress of (haxe and) flixelkind
 
 (*Bounty repo format straight up stolen (with permission) from (Lars)[https://github.com/larsiusprime/larsBounties] who copied it from [FlibitBounties](https://github.com/flibitijibibo/flibitBounties) I imagine as more people put bounties this copy chain will extend indefinitely.)
 
-This is squidBounties, the repository for Squidly who's been working on Renaine for 3 years and thinks it's about damn time for some formal help and is willing to put down money to make it more enticing.
+This is squidBounties, the repository for Squidly who's been working on Renaine for 3 years and thinks it's about damn time for some formal help and is willing to put down money to make it happen.
 
 All available bounties are listed on the [Issues](https://github.com/chosencharacters/squidBounties/issues) tab above as open issues. Claimed bounties that are underway will be tagged as such, and completed bounties will have their issues closed.
 
