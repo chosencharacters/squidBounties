@@ -13,6 +13,9 @@ Post in the issue, and make it clear that you wish to claim the bounty, then fol
 **Multiple people on one bounty:**
 If you want to work on a bounty that's already claimed, simply get in touch and we'll negotiate. The first person to claim the bounty in good faith and who is still making progress gets deferential treatment, but in the right circumstances, and with the agreement of the original claimant, I might consider splitting the bounty or some other arrangement.
 
+**To finish a bounty:**
+If this is a HaxeFlixel bounty it must be accepted by the HaxeFlixel organization. This means it must prescribe to their coding/testing standards. Same rules apply for OpenFL if it the feature is dependent on it. For anything specifically marked as for Renaine and Renaine only (this is very uncommon) then this rule does not apply.
+
 --------
 
 All of the bounties listed have the following common rules:
